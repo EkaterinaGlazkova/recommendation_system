@@ -1,4 +1,4 @@
-# CRAWLER #
+# Crawler#
 
 Crawler реализуется в виде консольной утилиты с тремя командами: update, download, clean.
 
